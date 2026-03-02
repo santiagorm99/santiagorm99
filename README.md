@@ -32,4 +32,4 @@ My hobbies include playing video games and meeting up with friends to make plans
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Ruiz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santiago-ruiz-mart%C3%ADn-5aaa81358/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6D00?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Santiago-Ruiz-M/santiagoruiz.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6D00?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Santiago-Ruiz-M/santiagorm99.github.io)
